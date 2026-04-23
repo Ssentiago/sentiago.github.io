@@ -39,3 +39,4 @@ weight = 3
 [[menu.main]]
 name = "CTF"
 url = "/ctf/"
+weight = 4
