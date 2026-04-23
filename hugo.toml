@@ -1,0 +1,38 @@
+baseURL = "https://sentiago.dev/"
+languageCode = "ru"
+title = "Arseny"
+theme = "PaperMod"
+enableRobotsTXT = true
+buildDrafts = false
+
+[params]
+defaultTheme = "dark"
+ShowReadingTime = true
+ShowShareButtons = false
+ShowPostNavLinks = true
+
+[params.homeInfoParams]
+Title = "Привет, я Ssentiago"
+Content = "Hello"
+
+[[params.socialIcons]]
+name = "github"
+url = "https://github.com/Ssentiago"
+
+[[params.socialIcons]]
+name = "telegram"
+url = "https://t.me/Ssentiago"
+
+[menu]
+[[menu.main]]
+name = "Блог"
+url = "/posts/"
+weight = 1
+[[menu.main]]
+name = "Проекты"
+url = "/projects/"
+weight = 2
+[[menu.main]]
+name = "Обо мне"
+url = "/about/"
+weight = 3
