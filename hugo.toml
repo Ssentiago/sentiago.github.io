@@ -36,3 +36,6 @@ weight = 2
 name = "Обо мне"
 url = "/about/"
 weight = 3
+[[menu.main]]
+name = "CTF"
+url = "/ctf/"
