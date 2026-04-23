@@ -12,8 +12,8 @@ ShowShareButtons = false
 ShowPostNavLinks = true
 
 [params.homeInfoParams]
-Title = "Привет, я Sentiago"
-Content = "Hello"
+Title = "Sentiago"
+Content = "Backend, DevOps, иногда frontend. Люблю разбираться как всё устроено."
 
 [[params.socialIcons]]
 name = "github"
